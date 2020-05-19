@@ -13,7 +13,7 @@ async def amireallyalive(alive):
     """ For .alive command, check if the bot is running.  """
     await alive.edit("**`Baithe baithe hue bore…..Karna hai Kuch kaam (Shuru kro yeh userbot leke prabhu ka naam) ψ(｀∇´)ψ`**\n\n"
                      "**Telethon version:- 6.9.0**\n◆ ▬▬▬▬▬▬ ❴✪❵ ▬▬▬▬▬▬ ◆\n**Python: 3.7.3**\n◆ ▬▬▬▬▬▬ ❴✪❵ ▬▬▬▬▬▬ ◆\n"
-                     "**Bot Made By:- @Its_Pahul\n◆ ▬▬▬▬▬▬ ❴✪❵ ▬▬▬▬▬▬ ◆\n**"
+                     "**Bot Made By:- @anon_cracker @Its_Pahul\n◆ ▬▬▬▬▬▬ ❴✪❵ ▬▬▬▬▬▬ ◆\n**"
                      "**Database Status: Databases functioning normally!**\n◆ ▬▬▬▬▬▬ ❴✪❵ ▬▬▬▬▬▬ ◆\nAlways with you, my peru master!\n`"
                      f"`My peru owner`: {DEFAULTUSER}\n"
                      "[Deploy this userbot Now](https://github.com/Pahul124/HardcoreUserbot)")
