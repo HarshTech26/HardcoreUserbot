@@ -16,4 +16,4 @@ async def amireallyalive(alive):
                      "**Bot Made By:- @anon_cracker @Its_Pahul\n◆ ▬▬▬▬▬▬ ❴✪❵ ▬▬▬▬▬▬ ◆\n**"
                      "**Database Status: Databases functioning normally!**\n◆ ▬▬▬▬▬▬ ❴✪❵ ▬▬▬▬▬▬ ◆\nAlways with you, my peru master!\n`"
                      f"`My peru owner`: {DEFAULTUSER}\n"
-                     "[Deploy this userbot Now](https://github.com/Pahul124/HardcoreUserbot)")
+                     "[Deploy this userbot Now](https://github.com/HarshTech26/HardcoreUserbot/)")
