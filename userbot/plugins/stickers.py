@@ -130,8 +130,8 @@ async def _(event):
                 while response.text == FILLED_UP_DADDY:
                     pack += 1
                     prevv = int(pack) - 1
-                    packname = f"{user.first_name}'s hot Vol.{pack}"
-                    packshortname = f"Vol._{pack}_with_{userid}"
+                    packname = f"AnonymousKaPack2"
+                    packshortname = f"AnonymousKaPack2"
                     if not await stickerset_exists(bot_conv, packshortname):
                         await event.edit("**Pack No. **" + str(prevv) + "** full! Making a new Pack, Vol. **" + str(pack))
                         if is_a_s:
@@ -166,7 +166,7 @@ async def _(event):
                             await event.edit(f"**FAILED**! @Stickers replied: {response.text}")
                             return
                         elif response.text == "Sorry, this short name is unacceptable.":
-                            packshortname = f"pack_{pack}_animated_{user.id}"
+                            packshortname = f"Anonymous_Animated2"
                             await silently_send_message(bot_conv, packshortname)
                     else:
                         await event.edit("Pack No. " + str(prevv) + " full! Switching to Vol. " + str(pack))
